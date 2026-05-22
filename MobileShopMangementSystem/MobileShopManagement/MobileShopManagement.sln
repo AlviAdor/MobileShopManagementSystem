@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MobileShopManagement", "MobileShopManagement.sqlproj", "{CACF22A0-3007-4E89-9CD8-3F5C79DA936C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CACF22A0-3007-4E89-9CD8-3F5C79DA936C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACF22A0-3007-4E89-9CD8-3F5C79DA936C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACF22A0-3007-4E89-9CD8-3F5C79DA936C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CACF22A0-3007-4E89-9CD8-3F5C79DA936C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACF22A0-3007-4E89-9CD8-3F5C79DA936C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CACF22A0-3007-4E89-9CD8-3F5C79DA936C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BACA717-B1E2-4FEA-BB0D-E6FB63952ED8}
+	EndGlobalSection
+EndGlobal

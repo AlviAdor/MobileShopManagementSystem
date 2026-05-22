@@ -1,0 +1,479 @@
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.exe
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.deps.json
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.runtimeconfig.json
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.pdb
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.csproj.AssemblyReference.cache
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.Form1.resources
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.Properties.Resources.resources
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.csproj.GenerateResource.cache
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AssemblyInfoInputs.cache
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AssemblyInfo.cs
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.csproj.CopyComplete
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\refint\MobileShopMangementSystem.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.pdb
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.genruntimeconfig.cache
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\ref\MobileShopMangementSystem.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Design.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WebForms.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\pt-BR\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\SqlServerSpatial160.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\SqlServerSpatial160.dll
+C:\Users\richa\OneDrive\Desktop\c#\New folder\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AllUserControl.UC_AddNewPhone.resources
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.exe
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.deps.json
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.runtimeconfig.json
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.pdb
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Design.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WebForms.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\pt-BR\Microsoft.SqlServer.Types.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\SqlServerSpatial160.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\SqlServerSpatial160.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AllUserControl.UC_AddNewPhone.resources
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AllUserControl.UC_Customer.resources
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.Form1.resources
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.Properties.Resources.resources
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AssemblyInfo.cs
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.csproj.CopyComplete
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\refint\MobileShopMangementSystem.dll
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.pdb
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.genruntimeconfig.cache
+C:\Users\user\Downloads\Telegram Desktop\MobileShopMangementSystem\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\ref\MobileShopMangementSystem.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.exe
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.deps.json
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.runtimeconfig.json
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.pdb
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\pt-BR\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\SqlServerSpatial160.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\SqlServerSpatial160.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.csproj.AssemblyReference.cache
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AllUserControl.UC_AddNewPhone.resources
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AllUserControl.UC_Customer.resources
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.Form1.resources
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.Properties.Resources.resources
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.csproj.GenerateResource.cache
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AssemblyInfoInputs.cache
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AssemblyInfo.cs
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.csproj.CopyComplete
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\refint\MobileShopMangementSystem.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.pdb
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.genruntimeconfig.cache
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\ref\MobileShopMangementSystem.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem up\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AllUserControl.UC_Stock.resources
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.exe
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.deps.json
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.runtimeconfig.json
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.pdb
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\pt-BR\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\SqlServerSpatial160.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\SqlServerSpatial160.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.csproj.AssemblyReference.cache
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AllUserControl.UC_AddNewPhone.resources
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AllUserControl.UC_Customer.resources
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AllUserControl.UC_CustomerRecords.resources
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AllUserControl.UC_Stock.resources
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.Form1.resources
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.Properties.Resources.resources
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.csproj.GenerateResource.cache
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AssemblyInfoInputs.cache
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AssemblyInfo.cs
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.csproj.CopyComplete
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\refint\MobileShopMangementSystem.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.pdb
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.genruntimeconfig.cache
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\ref\MobileShopMangementSystem.dll
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AllUserControl.UC_DeletePhoneRecord.resources
+C:\Users\richa\OneDrive\Desktop\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AllUserControl.UC_Login.resources
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.csproj.AssemblyReference.cache
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\refint\MobileShopMangementSystem.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.pdb
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AllUserControl.UC_AddNewPhone.resources
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AllUserControl.UC_Customer.resources
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AllUserControl.UC_CustomerRecords.resources
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AllUserControl.UC_DeletePhoneRecord.resources
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AllUserControl.UC_Login.resources
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AllUserControl.UC_Stock.resources
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.Form1.resources
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.Properties.Resources.resources
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.csproj.GenerateResource.cache
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AssemblyInfoInputs.cache
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.AssemblyInfo.cs
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.csproj.CoreCompileInputs.cache
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.exe
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.deps.json
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.runtimeconfig.json
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\MobileShopMangementSystem.pdb
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Azure.Core.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Azure.Identity.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Guna.UI2.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Debug.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\Microsoft.SqlServer.Types.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.Management.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.Memory.Data.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\System.Text.Json.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\de\Microsoft.SqlServer.Types.resources.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\es\Microsoft.SqlServer.Types.resources.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\fr\Microsoft.SqlServer.Types.resources.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\it\Microsoft.SqlServer.Types.resources.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ja\Microsoft.SqlServer.Types.resources.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ko\Microsoft.SqlServer.Types.resources.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\pt-BR\Microsoft.SqlServer.Types.resources.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\ru\Microsoft.SqlServer.Types.resources.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\SqlServerSpatial160.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\SqlServerSpatial160.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileSh.9BD7C111.Up2Date
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\MobileShopMangementSystem.genruntimeconfig.cache
+F:\Object Oriented Programming 2\MobileShopMangementSystem upgrade 1\MobileShopMangementSystem upgrade\MobileShopMangementSystem\MobileShopMangementSystem\obj\Debug\net8.0-windows\ref\MobileShopMangementSystem.dll
