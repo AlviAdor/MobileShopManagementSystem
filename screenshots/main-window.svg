@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="100%" height="100%" fill="#f3f4f6" stroke="#d1d5db"/>
+  <rect x="20" y="20" width="760" height="60" fill="#111827" rx="6"/>
+  <text x="40" y="60" fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="22">Mobile Shop Management — Main Window (Placeholder)</text>
+  <g transform="translate(40,100)" fill="#9ca3af">
+    <rect x="0" y="0" width="220" height="280" rx="6" fill="#ffffff" stroke="#e5e7eb"/>
+    <text x="16" y="28" fill="#111827" font-size="14">Navigation / Controls</text>
+    <rect x="240" y="0" width="500" height="280" rx="6" fill="#ffffff" stroke="#e5e7eb"/>
+    <text x="256" y="28" fill="#111827" font-size="14">Content / Dashboard</text>
+  </g>
+  <text x="40" y="420" fill="#6b7280" font-family="Helvetica, Arial" font-size="12">Replace these placeholders with real screenshots from the running app.</text>
+</svg>
